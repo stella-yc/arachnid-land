@@ -1,15 +1,17 @@
-import React from 'react'
-import Helmet from 'react-helmet'
+import React from "react";
+import Helmet from "react-helmet";
 
-import Navbar from '../components/Navbar'
-import './all.sass'
+import Header from "../components/header";
+// import "./all.sass";
+// eslint-disable-next-line
+import normalize from "normalize.css";
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
-    <Navbar />
+    <Helmet title="Home | Sebastian Echeverri" />
+    <Header />
     <div>{children}</div>
   </div>
-)
+);
 
-export default TemplateWrapper
+export default TemplateWrapper;
