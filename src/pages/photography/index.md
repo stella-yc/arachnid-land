@@ -4,6 +4,6 @@ path: /photography
 title: Photography
 ---
 
-# My cool Photography work!
+# Wildlife Photography
 
-lots and lots and lots of cool stuff
+Under construction!

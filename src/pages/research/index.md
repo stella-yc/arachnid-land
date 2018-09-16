@@ -4,6 +4,6 @@ path: /research
 title: Research
 ---
 
-# My cool research work!
+# Academic Research
 
-lots and lots and lots of cool stuff
+Under construction!
