@@ -1,5 +1,5 @@
 import React from "react";
-import { css } from "emotion";
+import { css } from "react-emotion";
 import jumbo from "./jumbo.jpg";
 import small from "./small.jpg";
 
@@ -11,10 +11,9 @@ class JumboImage extends React.Component {
     };
   }
   componentDidMount() {
-    if (window.innerWidth > 780) {
+    if (window.innerWidth >= 1000) {
       this.setState({ smallDevice: false });
     }
-
     window.addEventListener("resize", () => {
       if (window.matchMedia("(min-width: 1000px)").matches) {
         console.log("Screen width is at least 500px");
@@ -40,9 +39,10 @@ class JumboImage extends React.Component {
           position: relative;
           width: 100%;
           height: auto;
+          min-height: 70vh;
           max-height: 90vh;
           overflow: hidden;
-          @media (min-width: 768px) {
+          @media (min-width: 1000px) {
             max-height: none;
           }
         `}

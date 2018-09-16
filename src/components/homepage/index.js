@@ -6,27 +6,43 @@ import Photography from "./Photography";
 import Outreach from "./Outreach";
 import About from "./AboutMe";
 
-export default ({ data }) => (
-  <div
-    className={css`
-      display: flex;
-      flew-direction: column;
-      flex-wrap: wrap;
-      justify-content: center;
-      align-content: center;
-      margin: 0 auto;
-      width: 100%;
+class Homepage extends React.PureComponent {
+  state = {
+    isLoading: true
+  };
 
-      @media (min-width: 768px) {
-        margin-left: 0.5em;
-        flew-direction: row;
-        justify-content: space-around;
-      }
-    `}
-  >
-    <Research />
-    <Outreach />
-    <Photography />
-    <About />
-  </div>
-);
+  componentDidMount() {
+    this.setState({ isLoading: false });
+  }
+
+  render() {
+    return (
+      <div
+        className={css`
+          display: flex;
+          flew-direction: column;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-content: center;
+          margin: 0 auto;
+          width: 100%;
+          transition: opacity 0.3s ease;
+          opacity: ${this.state.isLoading ? 0 : 1};
+
+          @media (min-width: 768px) {
+            margin-left: 0.5em;
+            flew-direction: row;
+            justify-content: space-around;
+          }
+        `}
+      >
+        <Research />
+        <Outreach />
+        <Photography />
+        <About />
+      </div>
+    );
+  }
+}
+
+export default Homepage;

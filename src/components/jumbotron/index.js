@@ -11,12 +11,14 @@ const roles = [
 
 class Jumbotron extends React.Component {
   state = {
-    role: "Ph.D. candidate"
+    role: "Ph.D. candidate",
+    isLoading: true
   };
 
   intervalId = null;
 
   componentDidMount() {
+    this.setState({ isLoading: false });
     if (document !== undefined) {
       let i = 1;
       this.intervalId = setInterval(() => {
@@ -41,6 +43,8 @@ class Jumbotron extends React.Component {
           margin: 0;
           padding: 0;
           position: relative;
+          transition: opacity 0.5s ease;
+          opacity: ${this.state.isLoading ? 0 : 1.0};
         `}
       >
         <JumboImage />

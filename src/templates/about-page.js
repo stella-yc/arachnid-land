@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
-import { css } from "emotion";
 import { Section } from "../components/Section";
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
