@@ -1,8 +1,8 @@
 import React from "react";
 
-import Layout from "../components/layout";
-import Homepage from "../components/homepage";
-import Jumbotron from "../components/jumbotron";
+import Layout from "../components/Layout";
+import Homepage from "../components/Homepage";
+import Jumbotron from "../components/Jumbotron";
 
 export default ({ data }) => (
   <Layout>
