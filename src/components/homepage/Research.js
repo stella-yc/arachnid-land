@@ -33,7 +33,7 @@ const Research = ({ siteTitle }) => (
     >
       <h2
         className={css`
-          color: #818181;
+          color: #2d2d2d;
           font-size: 3em;
         `}
       >

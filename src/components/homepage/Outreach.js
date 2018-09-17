@@ -2,7 +2,7 @@ import React from "react";
 // import { Link } from "gatsby";
 import { css } from "emotion";
 
-import outreachPhoto from "../../img/outreach.jpg";
+import frogPhoto from "../../img/frog.jpg";
 
 const Outreach = ({ siteTitle }) => (
   <div
@@ -24,13 +24,13 @@ const Outreach = ({ siteTitle }) => (
         margin-right: auto;
         left: 0;
         right: 0;
-        top: 100px;
+        top: 70px;
         text-align: center;
       `}
     >
       <h2
         className={css`
-          color: white;
+          color: #2d2d2d;
           font-size: 3em;
         `}
       >
@@ -44,8 +44,8 @@ const Outreach = ({ siteTitle }) => (
       `}
     >
       <img
-        src={outreachPhoto}
-        alt="jumping spider"
+        src={frogPhoto}
+        alt="frog"
         className={css`
           width: 100%;
           height: auto;

@@ -2,7 +2,7 @@ import React from "react";
 // import { Link } from "gatsby";
 import { css } from "emotion";
 
-import aboutmePhoto from "../../img/aboutme.jpg";
+import birdPhoto from "../../img/bird.jpg";
 
 const About = ({ siteTitle }) => (
   <div
@@ -24,7 +24,7 @@ const About = ({ siteTitle }) => (
         margin-right: auto;
         left: 0;
         right: 0;
-        top: 100px;
+        top: 70px;
         text-align: center;
       `}
     >
@@ -44,8 +44,8 @@ const About = ({ siteTitle }) => (
       `}
     >
       <img
-        src={aboutmePhoto}
-        alt="jumping spider"
+        src={birdPhoto}
+        alt="robin"
         className={css`
           width: 100%;
           height: auto;

@@ -2,12 +2,7 @@ import React from "react";
 import { css } from "emotion";
 import JumboImage from "./JumboImage";
 
-const roles = [
-  "Ph.D. candidate",
-  "science educator",
-  "wildlife photographer",
-  "nature enthusiast"
-];
+const roles = ["Ph.D. candidate", "science educator", "wildlife photographer"];
 
 class Jumbotron extends React.Component {
   state = {
