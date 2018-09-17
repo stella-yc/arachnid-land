@@ -34,7 +34,7 @@ const Footer = ({ data, siteTitle }) => (
       margin: 1em 0 0 0;
       width: 100%;
       height: 19vh;
-      padding: 1em 0;
+      padding: 1.7em 0 0 0;
       text-align: center;
       background-color: #ebebe0;
     `}

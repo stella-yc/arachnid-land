@@ -53,14 +53,18 @@ class Jumbotron extends React.Component {
             padding: 1em;
             width: 60%;
             @media (min-width: 420px) {
+              top: 190px;
+              width: 60%;
             }
-            @media (min-width: 768px) {
-              top: 160px;
-              right: 50px;
-              width: 40%;
+            @media (min-width: 600px) {
+              top: 280px;
+              right: 20px;
+              width: 60%;
             }
-            @media (min-width: 900px) {
+            @media (min-width: 1000px) {
               top: 200px;
+              width: 38%;
+              right: 60px;
             }
           `}
         >
@@ -85,7 +89,13 @@ class Jumbotron extends React.Component {
                 font-size: 1.8em;
               }
               @media (min-width: 768px) {
-                font-size: 2.2em;
+                font-size: 1.8em;
+              }
+              @media (min-width: 900px) {
+                font-size: 1.8em;
+              }
+              @media (min-width: 1096px) {
+                font-size: 2em;
               }
             `}
           >
