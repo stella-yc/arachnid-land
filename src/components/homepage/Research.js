@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "gatsby";
+import { Link } from "gatsby";
 import { css } from "emotion";
 
 import researchPhoto from "../../img/research.jpg";
@@ -17,46 +17,48 @@ const Research = ({ siteTitle }) => (
       }
     `}
   >
-    <div
-      className={css`
-        position: absolute;
-        margin-left: auto;
-        margin-right: auto;
-        left: 0;
-        right: 0;
-        top: 40px;
-        text-align: center;
-        @media (min-width: 768px) {
-          top: 70px;
-        }
-      `}
-    >
-      <h2
+    <Link to="/research/">
+      <div
         className={css`
-          color: #2d2d2d;
-          font-size: 3em;
+          position: absolute;
+          margin-left: auto;
+          margin-right: auto;
+          left: 0;
+          right: 0;
+          top: 40px;
+          text-align: center;
+          @media (min-width: 768px) {
+            top: 70px;
+          }
         `}
       >
-        Research
-      </h2>
-    </div>
+        <h2
+          className={css`
+            color: #2d2d2d;
+            font-size: 3em;
+          `}
+        >
+          Research
+        </h2>
+      </div>
 
-    <div
-      className={css`
-        display: block;
-      `}
-    >
-      <img
-        src={researchPhoto}
-        alt="jumping spider"
+      <div
         className={css`
-          width: 100%;
-          height: auto;
-          margin: 0;
-          display: inline-block;
+          display: block;
         `}
-      />
-    </div>
+      >
+        <img
+          src={researchPhoto}
+          alt="jumping spider"
+          className={css`
+            width: 100%;
+            height: auto;
+            margin: 0;
+            display: inline-block;
+          `}
+        />
+      </div>
+    </Link>
   </div>
 );
 

@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "gatsby";
+import { Link } from "gatsby";
 import { css } from "emotion";
 
 import frogPhoto from "../../img/frog.jpg";
@@ -17,43 +17,45 @@ const Outreach = ({ siteTitle }) => (
       }
     `}
   >
-    <div
-      className={css`
-        position: absolute;
-        margin-left: auto;
-        margin-right: auto;
-        left: 0;
-        right: 0;
-        top: 70px;
-        text-align: center;
-      `}
-    >
-      <h2
+    <Link to="/outreach/">
+      <div
         className={css`
-          color: #2d2d2d;
-          font-size: 3em;
+          position: absolute;
+          margin-left: auto;
+          margin-right: auto;
+          left: 0;
+          right: 0;
+          top: 70px;
+          text-align: center;
         `}
       >
-        Outreach
-      </h2>
-    </div>
+        <h2
+          className={css`
+            color: #2d2d2d;
+            font-size: 3em;
+          `}
+        >
+          Outreach
+        </h2>
+      </div>
 
-    <div
-      className={css`
-        display: block;
-      `}
-    >
-      <img
-        src={frogPhoto}
-        alt="frog"
+      <div
         className={css`
-          width: 100%;
-          height: auto;
-          margin: 0;
-          display: inline-block;
+          display: block;
         `}
-      />
-    </div>
+      >
+        <img
+          src={frogPhoto}
+          alt="frog"
+          className={css`
+            width: 100%;
+            height: auto;
+            margin: 0;
+            display: inline-block;
+          `}
+        />
+      </div>
+    </Link>
   </div>
 );
 

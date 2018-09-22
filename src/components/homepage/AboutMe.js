@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "gatsby";
+import { Link } from "gatsby";
 import { css } from "emotion";
 
 import birdPhoto from "../../img/bird.jpg";
@@ -17,43 +17,45 @@ const About = ({ siteTitle }) => (
       }
     `}
   >
-    <div
-      className={css`
-        position: absolute;
-        margin-left: auto;
-        margin-right: auto;
-        left: 0;
-        right: 0;
-        top: 70px;
-        text-align: center;
-      `}
-    >
-      <h2
+    <Link to="/about/">
+      <div
         className={css`
-          color: white;
-          font-size: 3em;
+          position: absolute;
+          margin-left: auto;
+          margin-right: auto;
+          left: 0;
+          right: 0;
+          top: 70px;
+          text-align: center;
         `}
       >
-        About
-      </h2>
-    </div>
+        <h2
+          className={css`
+            color: white;
+            font-size: 3em;
+          `}
+        >
+          About
+        </h2>
+      </div>
 
-    <div
-      className={css`
-        display: block;
-      `}
-    >
-      <img
-        src={birdPhoto}
-        alt="robin"
+      <div
         className={css`
-          width: 100%;
-          height: auto;
-          margin: 0;
-          display: inline-block;
+          display: block;
         `}
-      />
-    </div>
+      >
+        <img
+          src={birdPhoto}
+          alt="robin"
+          className={css`
+            width: 100%;
+            height: auto;
+            margin: 0;
+            display: inline-block;
+          `}
+        />
+      </div>
+    </Link>
   </div>
 );
 
