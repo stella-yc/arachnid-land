@@ -8,14 +8,14 @@ class JumboImage extends React.Component {
     super();
     this.state = {
       isVisible: false,
-      smallDevice: true
+      smallDevice: false
     };
   }
   componentDidMount() {
     if (window.innerWidth >= 1000) {
       this.setState({ smallDevice: false, isVisible: true });
     } else {
-      this.setState({ isVisible: true });
+      this.setState({ smallDevice: true, isVisible: true });
     }
     window.addEventListener("resize", () => {
       if (window.matchMedia("(min-width: 1000px)").matches) {
