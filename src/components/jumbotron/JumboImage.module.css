@@ -1,0 +1,19 @@
+.Jumbo {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 70vh;
+  max-height: 90vh;
+  overflow: hidden;
+  background-image: url(./jumbo.jpg);
+  background-size: cover;
+  background-position: 50%;
+  height: 100vh;
+  width: 100%;
+}
+
+@media (min-width: 1000px) {
+  max-height: none;
+}

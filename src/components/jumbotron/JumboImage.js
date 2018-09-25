@@ -2,6 +2,7 @@ import React from "react";
 import { css } from "react-emotion";
 import jumbo from "./jumbo.jpg";
 import small from "./small.jpg";
+import style from "./JumboImage.module.css";
 
 class JumboImage extends React.Component {
   constructor() {
@@ -50,22 +51,7 @@ class JumboImage extends React.Component {
           }
         `}
       >
-        <img
-          src={this.state.smallDevice ? small : jumbo}
-          alt="Sebastian Echeverri"
-          className={css`
-            opacity: ${this.state.isVisible ? 1 : 0}
-            width: 100%;
-            height: auto;
-            margin: 0;
-            @media (min-width: 768px) {
-              margin-top: -100px;
-            }
-            @media (min-width: 1000px) {
-              margin-top: 0;
-            }
-          `}
-        />
+        <div className={style.Jumbo} />
       </div>
     );
   }
