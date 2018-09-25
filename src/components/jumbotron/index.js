@@ -59,7 +59,7 @@ class Jumbotron extends React.Component {
             @media (min-width: 600px) {
               top: 280px;
               right: 20px;
-              width: 60%;
+              width: 50%;
             }
             @media (min-width: 1000px) {
               top: 200px;
