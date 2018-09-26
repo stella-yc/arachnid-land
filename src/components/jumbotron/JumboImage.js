@@ -1,7 +1,5 @@
 import React from "react";
 import { css } from "react-emotion";
-import jumbo from "./jumbo.jpg";
-import small from "./small.jpg";
 import style from "./JumboImage.module.css";
 
 class JumboImage extends React.Component {
