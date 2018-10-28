@@ -1,9 +1,7 @@
 ---
-templateKey: "outreach-page"
-path: /outreach
+templateKey: outreach-page
 title: Outreach
 ---
-
 # Education and Outreach
 
-Under construction!
+Under construction!!!
