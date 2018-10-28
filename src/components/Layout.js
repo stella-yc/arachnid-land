@@ -4,7 +4,7 @@ import { css } from "emotion";
 
 import Header from "../components/header";
 import Footer from "./Footer";
-import "./all.sass";
+
 // eslint-disable-next-line
 import normalize from "normalize.css";
 

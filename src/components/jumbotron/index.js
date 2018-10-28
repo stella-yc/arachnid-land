@@ -2,6 +2,9 @@ import React from "react";
 import { css } from "emotion";
 import JumboImage from "./JumboImage";
 
+// This component displays the image
+// and cycles through display text.
+
 const roles = ["Ph.D. candidate", "science educator", "wildlife photographer"];
 
 class Jumbotron extends React.Component {
