@@ -1,9 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
+import { css } from "emotion";
+
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { Section } from "../components/Section";
+import frogPhoto from "../img/frog.jpg";
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
@@ -11,6 +14,16 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <Section>
       <h2>{title}</h2>
+      <img
+        src={frogPhoto}
+        alt="frog"
+        className={css`
+          width: 100%;
+          height: auto;
+          margin: 0;
+          display: inline-block;
+        `}
+      />
       <PageContent className="content" content={content} />
     </Section>
   );

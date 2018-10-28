@@ -51,28 +51,4 @@ const HeaderLinks = ({ siteTitle }) => (
   </ul>
 );
 
-// class HeaderLinks extends React.PureComponent {
-//   componentDidMount() {}
-//   render() {
-//     return (
-//       <ul
-//         className={css`
-//           margin: 0;
-//           padding: 0;
-//           display: none;
-
-//           @media (min-width: 768px) {
-//             display: inline-block;
-//           }
-//         `}
-//       >
-//         <NavLink href="/research/">Research</NavLink>
-//         <NavLink href="/outreach/">Outreach</NavLink>
-//         <NavLink href="/photography/">Photography</NavLink>
-//         <NavLink href="/about/">About</NavLink>
-//       </ul>
-//     );
-//   }
-// }
-
 export default HeaderLinks;

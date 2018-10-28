@@ -36,7 +36,7 @@ const HeaderLogo = ({ title }) => (
           }
         `}
       >
-        SE
+        SAE
       </span>
       <span
         className={css`

@@ -5,11 +5,16 @@ import JumboImage from "./JumboImage";
 // This component displays the image
 // and cycles through display text.
 
-const roles = ["Ph.D. candidate", "science educator", "wildlife photographer"];
+const roles = [
+  "Ph.D. student",
+  "science educator",
+  "wildlife photographer",
+  "spider scientist"
+];
 
 class Jumbotron extends React.Component {
   state = {
-    role: "Ph.D. candidate",
+    role: "Ph.D. student",
     isLoading: true
   };
 
