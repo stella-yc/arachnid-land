@@ -1,9 +1,7 @@
 ---
-templateKey: "photography-page"
-path: /photography
+templateKey: photography-page
 title: Photography
 ---
-
 # Wildlife Photography
 
-Under construction!
+Under construction! Still!!
