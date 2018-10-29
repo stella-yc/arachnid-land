@@ -8,13 +8,14 @@ I am a scientist and educator based in Pittsburgh, PA. I study the complex relat
 
 I was born in Colombia, and grew up in Forest Hills, NYC. In 2013, I earned a B.S. in Biology and Applied Physics at the University of Miami. Currently, I am a PhD student in the [Richards-Zawacki Lab](http://www.rzlab.pitt.edu) at the University of Pittsburgh. 
 
-In my free time, I enjoy video games, hiking, and wildlife photography. Recently, I have been trying to practice natural history illustration. I also keep a small collection of arachnids that join me in my educational programs.
+In my free time, I enjoy video games, hiking, and wildlife photography. Recently, I have been trying to learn natural history illustration. I also keep a small collection of arachnids that join me in my educational programs.
 
 ## Contact
 
 Feel free to contact me with any outreach or research inquiries, or if you just have a question about spiders! 
 
-You can email me directly at echeverri.sa \[at] gmail \[dot] com, or reach out via social media. I am [@spidernightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter. 
+You can email me directly at echeverri.sa \[at] gmail \[dot] com, or reach out via social media.
+ I am [@spidernightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter. 
 
 ## Elsewhere on the Web
 
