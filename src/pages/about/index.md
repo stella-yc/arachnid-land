@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About Me
 ---
-![An accurate representation of myself.](/img/sebs-by-stella.png)
+![An accurate representation of myself.](/img/sebs-by-stella_small.png)
 
 I am a scientist and educator based in Pittsburgh, PA. I study the complex relationship between animals’ eyes, their environment, and how they use color, shape, and movement to communicate. While I love all animals, there is a special spot in my heart for spiders and other arachnids. 
 
@@ -15,7 +15,7 @@ In my free time, I enjoy video games, hiking, and wildlife photography. Recently
 Feel free to contact me with any outreach or research inquiries, or if you just have a question about spiders! 
 
 You can email me directly at echeverri.sa \[at] gmail \[dot] com, or reach out via social media.
- I am [@spidernightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter. 
+ I am [@spiderdaynightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter. 
 
 ## Elsewhere on the Web
 
