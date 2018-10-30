@@ -6,10 +6,10 @@ import JumboImage from "./JumboImage";
 // and cycles through display text.
 
 const roles = [
-  "Ph.D. student",
-  "science educator",
-  "wildlife photographer",
-  "spider scientist"
+  "Ph.D. Student",
+  "Science Educator",
+  "Wildlife Photographer",
+  "Scientist"
 ];
 
 class Jumbotron extends React.Component {
@@ -30,7 +30,7 @@ class Jumbotron extends React.Component {
         }
         this.setState({ role: roles[i] });
         i++;
-      }, 2000);
+      }, 3000);
     }
   }
 
@@ -54,45 +54,69 @@ class Jumbotron extends React.Component {
         <div
           className={css`
             position: absolute;
-            top: 160px;
-            right: 0px;
+            top: 450px;
+            right: 20px;
             color: white;
-            background-color: rgba(0, 0, 0, 0.4);
+            // background-color: rgba(0, 0, 0, 0.2);
             padding: 1em;
-            width: 60%;
+            width: 100%;
+            text-align: center;
             @media (min-width: 420px) {
-              top: 190px;
-              width: 60%;
+              top: 450px;
+              right: 20px;
+              width: 100%;
             }
             @media (min-width: 600px) {
-              top: 280px;
+              top: 450px;
               right: 20px;
-              width: 50%;
+              width: 100%;
             }
-            @media (min-width: 1000px) {
+            @media (min-width: 800px) {
+              top: 200px;
+              width: 50%;
+              // width: 100%;
+              right: 20px;
+            }
+            @media (min-width: 1100px) {
               top: 200px;
               width: 38%;
+              // width: 100%;
               right: 60px;
+            }
+            @media (min-width: 1130px) {
+              width: 50%;
+              right: 30px;
             }
           `}
         >
           <p
             className={css`
-              font-size: 1.4em;
+              font-size: 2.8em;
               margin-bottom: 0.5em;
+              text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
               @media (min-width: 420px) {
-                font-size: 1.8em;
+                font-size: 3em;
+              }
+              @media (min-width: 600px) {
+                font-size: 3em;
               }
               @media (min-width: 768px) {
-                font-size: 1.8em;
+                font-size: 2.4em;
+              }
+              @media (min-width: 1130px) {
+                font-size: 2.8em;
+              }
+              @media (min-width: 1340px) {
+                font-size: 3em;
               }
             `}
           >
-            Hi, my name is <br /> Sebastian Echeverri.
+            Sebastian Echeverri
           </p>
           <p
             className={css`
               font-size: 1.4em;
+              text-align: center;
               @media (min-width: 420px) {
                 font-size: 1.8em;
               }
@@ -107,18 +131,18 @@ class Jumbotron extends React.Component {
               }
             `}
           >
-            I'm a{" "}
             <span
               className={css`
                 display: inline-block;
                 color: #e1d866;
                 border-bottom: 5px solid #e1d866;
+                text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
                 @media (min-width: 1170px) {
                   margin-left: 0.3em;
                 }
               `}
             >
-              {this.state.role}.
+              {this.state.role}
             </span>
           </p>
         </div>

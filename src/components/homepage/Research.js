@@ -2,22 +2,16 @@ import React from "react";
 import { Link } from "gatsby";
 import { css } from "emotion";
 
-import researchPhoto from "../../img/research.jpg";
+import style from "./Research.module.css";
 
-const Research = ({ siteTitle }) => (
-  <div
-    className={css`
-      position: relative;
-      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-      border: 1px solid #ccc;
-      width: 100%;
-      @media (min-width: 768px) {
+const Research = () => (
+  <Link to="/research/">
+    <div
+      className={css`
+        position: relative;
         margin: 1em 0;
-        width: 43vw;
-      }
-    `}
-  >
-    <Link to="/research/">
+      `}
+    >
       <div
         className={css`
           position: absolute;
@@ -25,41 +19,26 @@ const Research = ({ siteTitle }) => (
           margin-right: auto;
           left: 0;
           right: 0;
-          top: 40px;
+          bottom: 10px;
           text-align: center;
-          @media (min-width: 768px) {
-            top: 70px;
-          }
+          z-index: 2;
         `}
       >
         <h2
           className={css`
             color: #2d2d2d;
-            font-size: 3em;
+            font-size: 2.5em;
+            @media (min-width: 950px) {
+              font-size: 3em;
+            }
           `}
         >
           Research
         </h2>
       </div>
-
-      <div
-        className={css`
-          display: block;
-        `}
-      >
-        <img
-          src={researchPhoto}
-          alt="jumping spider"
-          className={css`
-            width: 100%;
-            height: auto;
-            margin: 0;
-            display: inline-block;
-          `}
-        />
-      </div>
-    </Link>
-  </div>
+      <div className={style.icon} />
+    </div>
+  </Link>
 );
 
 export default Research;

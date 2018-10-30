@@ -2,22 +2,16 @@ import React from "react";
 import { Link } from "gatsby";
 import { css } from "emotion";
 
-import frogPhoto from "../../img/frog.jpg";
+import style from "./Outreach.module.css";
 
-const Outreach = ({ siteTitle }) => (
-  <div
-    className={css`
-      position: relative;
-      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-      border: 1px solid #ccc;
-      width: 100%;
-      @media (min-width: 768px) {
+const Outreach = () => (
+  <Link to="/outreach/">
+    <div
+      className={css`
+        position: relative;
         margin: 1em 0;
-        width: 43vw;
-      }
-    `}
-  >
-    <Link to="/outreach/">
+      `}
+    >
       <div
         className={css`
           position: absolute;
@@ -25,38 +19,27 @@ const Outreach = ({ siteTitle }) => (
           margin-right: auto;
           left: 0;
           right: 0;
-          top: 70px;
+          bottom: 10px;
           text-align: center;
+          z-index: 2;
         `}
       >
         <h2
           className={css`
-            color: #2d2d2d;
-            font-size: 3em;
+            color: white;
+            text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+            font-size: 2.5em;
+            @media (min-width: 950px) {
+              font-size: 3em;
+            }
           `}
         >
           Outreach
         </h2>
       </div>
-
-      <div
-        className={css`
-          display: block;
-        `}
-      >
-        <img
-          src={frogPhoto}
-          alt="frog"
-          className={css`
-            width: 100%;
-            height: auto;
-            margin: 0;
-            display: inline-block;
-          `}
-        />
-      </div>
-    </Link>
-  </div>
+      <div className={style.icon} />
+    </div>
+  </Link>
 );
 
 export default Outreach;

@@ -2,22 +2,16 @@ import React from "react";
 import { Link } from "gatsby";
 import { css } from "emotion";
 
-import photographyPhoto from "../../img/photography.jpg";
+import style from "./Photography.module.css";
 
-const Photography = ({ siteTitle }) => (
-  <div
-    className={css`
-      position: relative;
-      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.1);
-      border: 1px solid #ccc;
-      width: 100%;
-      @media (min-width: 768px) {
+const Photography = () => (
+  <Link to="/photography/">
+    <div
+      className={css`
+        position: relative;
         margin: 1em 0;
-        width: 43vw;
-      }
-    `}
-  >
-    <Link to="/photography/">
+      `}
+    >
       <div
         className={css`
           position: absolute;
@@ -25,38 +19,27 @@ const Photography = ({ siteTitle }) => (
           margin-right: auto;
           left: 0;
           right: 0;
-          top: 100px;
+          bottom: 10px;
           text-align: center;
+          z-index: 2;
         `}
       >
         <h2
           className={css`
             color: white;
-            font-size: 3em;
+            text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+            font-size: 2.5em;
+            @media (min-width: 950px) {
+              font-size: 3em;
+            }
           `}
         >
           Photography
         </h2>
       </div>
-
-      <div
-        className={css`
-          display: block;
-        `}
-      >
-        <img
-          src={photographyPhoto}
-          alt="jumping spider"
-          className={css`
-            width: 100%;
-            height: auto;
-            margin: 0;
-            display: inline-block;
-          `}
-        />
-      </div>
-    </Link>
-  </div>
+      <div className={style.icon} />
+    </div>
+  </Link>
 );
 
 export default Photography;
