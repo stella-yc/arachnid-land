@@ -21,20 +21,20 @@
 
 .about {
   composes: icon;
-  background-image: url(../../../img/about.jpg);
+  background-image: url(img/about.jpg);
 }
 
 .outreach {
   composes: icon;
-  background-image: url(../../../img/outreach.jpg);
+  background-image: url(img/outreach.jpg);
 }
 
 .photography {
   composes: icon;
-  background-image: url(../../../img/photography.jpg);
+  background-image: url(img/photography.jpg);
 }
 
 .research {
   composes: icon;
-  background-image: url(../../../img/research.jpg);
+  background-image: url(img/research.jpg);
 }
