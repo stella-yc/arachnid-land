@@ -29,7 +29,7 @@ class Homepage extends React.PureComponent {
           @media (min-width: 768px) {
             margin-left: 0.5em;
             flew-direction: row;
-            justify-content: space-around;
+            justify-content: center;
           }
         `}
       >

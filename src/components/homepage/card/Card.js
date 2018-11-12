@@ -22,6 +22,9 @@ const Card = ({ title, path }) => (
       className={css`
         position: relative;
         margin: 1em 0;
+        @media (min-width: 768px) {
+          margin: 1em;
+        }
       `}
     >
       <div
