@@ -5,6 +5,7 @@ import { css } from "emotion";
 
 import Layout from "../components/Layout";
 import Homepage from "../components/homepage";
+import HomepageAbout from "../components/homepage-about";
 import Jumbotron from "../components/jumbotron";
 import BlogTease from "../components/blog-tease/BlogTease";
 
@@ -15,11 +16,13 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <Jumbotron />
-
+        <HomepageAbout />
         <div
           className={css`
             text-align: center;
-            margin-top: 2em;
+            margin: 1em 0;
+            padding: 1em 0;
+            background-color: #fff5e3;
           `}
         >
           <h1>Recent Updates</h1>
