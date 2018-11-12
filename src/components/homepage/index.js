@@ -1,10 +1,7 @@
 import React from "react";
 import { css } from "emotion";
 
-import Research from "./Research";
-import Photography from "./Photography";
-import Outreach from "./Outreach";
-import About from "./AboutMe";
+import Card from "./card/Card";
 
 class Homepage extends React.PureComponent {
   state = {
@@ -36,10 +33,10 @@ class Homepage extends React.PureComponent {
           }
         `}
       >
-        <Research />
-        <Outreach />
-        <Photography />
-        <About />
+        <Card title="Research" path="/research/" />
+        <Card title="Outreach" path="/outreach/" />
+        <Card title="Photography" path="/photography/" />
+        <Card title="About" path="/about/" />
       </div>
     );
   }

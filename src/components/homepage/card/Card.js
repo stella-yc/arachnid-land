@@ -2,10 +2,22 @@ import React from "react";
 import { Link } from "gatsby";
 import { css } from "emotion";
 
-import style from "./AboutMe.module.css";
+import style from "./Card.module.css";
 
-const About = () => (
-  <Link to="/about/">
+const _selectImage = title => {
+  switch (title) {
+    case "About":
+      return style.about;
+    case "Research":
+      return style.research;
+    case "Outreach":
+      return style.outreach;
+    case "Photography":
+      return style.photography;
+  }
+};
+const Card = ({ title, path }) => (
+  <Link to={path}>
     <div
       className={css`
         position: relative;
@@ -34,12 +46,12 @@ const About = () => (
             }
           `}
         >
-          About
+          {title}
         </h2>
       </div>
-      <div className={style.icon} />
+      <div className={_selectImage(title)} />
     </div>
   </Link>
 );
 
-export default About;
+export default Card;
