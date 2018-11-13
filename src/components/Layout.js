@@ -10,7 +10,9 @@ import normalize from "normalize.css";
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Sebastian Echeverri" />
+    <Helmet title="Sebastian Echeverri">
+      <link rel="icon" href="img/favicon.ico" />
+    </Helmet>
     <Header />
     <div
       className={css`
