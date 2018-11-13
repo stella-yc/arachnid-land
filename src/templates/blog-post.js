@@ -5,7 +5,7 @@ import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
-
+import { css } from "emotion";
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -17,7 +17,13 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section
+      className={css`
+        margin-top: 100px;
+        margin: 100px auto 0;
+        max-width: 700px;
+      `}
+    >
       {helmet || ""}
       <div className="container content">
         <div className="columns">

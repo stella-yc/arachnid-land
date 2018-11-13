@@ -22,7 +22,7 @@ class HomepageAbout extends React.PureComponent {
             justify-content: space-around;
             margin: 0 auto;
             @media (min-width: 768px) {
-              max-width: 700px;
+              max-width: 750px;
             }
           `}
         >
@@ -37,6 +37,7 @@ class HomepageAbout extends React.PureComponent {
             <p
               className={css`
                 line-height: 1.4em;
+                font-size: 1.1em;
               `}
             >
               <span
@@ -60,8 +61,7 @@ class HomepageAbout extends React.PureComponent {
               height: auto;
               display: inline-block;
               @media (min-width: 768px) {
-                max-width: 700px;
-                width: 30%;
+                margin-left: 1em;
               }
             `}
           >
