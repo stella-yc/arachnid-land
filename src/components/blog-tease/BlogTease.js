@@ -13,7 +13,7 @@ const BlogTease = ({ post }) => (
       text-align: left;
       @media (min-width: 768px) {
         flex-direction: row;
-        justify-content: space-around;
+        justify-content: center;
         align-items: flex-start;
       }
     `}

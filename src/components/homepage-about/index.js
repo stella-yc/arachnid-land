@@ -1,5 +1,6 @@
 import React from "react";
 import { css } from "emotion";
+import SocialLinks from "../../SocialLinks";
 
 class HomepageAbout extends React.PureComponent {
   render() {
@@ -29,11 +30,15 @@ class HomepageAbout extends React.PureComponent {
             className={css`
               display: inline-block;
               @media (min-width: 768px) {
-                width: 60%;
+                width: 70%;
               }
             `}
           >
-            <p>
+            <p
+              className={css`
+                line-height: 1.4em;
+              `}
+            >
               <span
                 className={css`
                   font-size: 2em;
@@ -68,6 +73,13 @@ class HomepageAbout extends React.PureComponent {
                 border-radius: 20%;
               `}
             />
+          </div>
+          <div
+            className={css`
+              text-align: center;
+            `}
+          >
+            <SocialLinks />
           </div>
         </div>
       </div>

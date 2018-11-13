@@ -32,6 +32,7 @@ const Card = ({ title, path }) => (
           position: absolute;
           margin-left: auto;
           margin-right: auto;
+          margin-bottom: 0.5em;
           left: 0;
           right: 0;
           bottom: 10px;
@@ -42,7 +43,7 @@ const Card = ({ title, path }) => (
         <h2
           className={css`
             color: white;
-            text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.9);
+            text-shadow: 1px 4px 9px rgba(0, 0, 0, 0.8);
             font-size: 2.5em;
             @media (min-width: 950px) {
               font-size: 3em;
