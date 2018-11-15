@@ -5,6 +5,8 @@ import { css } from "emotion";
 
 import Layout from "../../components/Layout";
 import BlogCard from "../../components/blog-tease/BlogCard";
+import Section from "../../components/Section";
+import PageTitle from "../../components/PageTitle";
 
 export default class IndexPage extends React.Component {
   render() {
@@ -12,28 +14,12 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
     return (
       <Layout>
-        <div
-          className={css`
-            max-width: 600px;
-            text-align: left;
-            margin: 1em auto;
-            padding: 1em 0;
-          `}
-        >
-          <h1
-            className={css`
-              margin: 1em auto;
-              padding-bottom: 0.2em;
-              border-bottom: 4px solid #505050;
-              display: inline-block;
-            `}
-          >
-            Blog
-          </h1>
+        <Section>
+          <PageTitle title="Blog" />
           {posts.map(({ node: post }) => (
             <BlogCard key={post.id} post={post} />
           ))}
-        </div>
+        </Section>
       </Layout>
     );
   }
