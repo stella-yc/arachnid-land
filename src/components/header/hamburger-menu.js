@@ -56,6 +56,7 @@ const HamburgerMenu = ({ isOpen }) => (
     >
       <NavLink href="/research/">Research</NavLink>
       <NavLink href="/outreach/">Outreach</NavLink>
+      <NavLink href="/blog/">Blog</NavLink>
       <NavLink href="/photography/">Photography</NavLink>
       <NavLink href="/about/">About</NavLink>
     </ul>

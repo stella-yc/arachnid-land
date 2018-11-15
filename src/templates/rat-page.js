@@ -7,7 +7,7 @@ import Content, { HTMLContent } from "../components/Content";
 import { Section } from "../components/Section";
 import PageTitle from "../components/PageTitle";
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
+export const RatPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -18,18 +18,18 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   );
 };
 
-AboutPageTemplate.propTypes = {
+RatPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func
 };
 
-const AboutPage = ({ data }) => {
+const RatPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <RatPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -38,14 +38,14 @@ const AboutPage = ({ data }) => {
   );
 };
 
-AboutPage.propTypes = {
+RatPage.propTypes = {
   data: PropTypes.object.isRequired
 };
 
-export default AboutPage;
+export default RatPage;
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const ratPageQuery = graphql`
+  query RatPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
