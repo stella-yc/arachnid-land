@@ -5,13 +5,14 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { Section } from "../components/Section";
+import PageTitle from "../components/PageTitle";
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <Section>
-      <h2>{title}</h2>
+      <PageTitle title={title} />
       <PageContent className="content" content={content} />
     </Section>
   );

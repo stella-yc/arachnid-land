@@ -6,6 +6,7 @@ import { css } from "emotion";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 import { Section } from "../components/Section";
+import PageTitle from "../components/PageTitle";
 
 export const PhotographyPageTemplate = ({
   title,
@@ -15,10 +16,12 @@ export const PhotographyPageTemplate = ({
   const PageContent = contentComponent || Content;
 
   return (
-    <Section width={1000}>
+    <Section width={640}>
+      <PageTitle title={title} />
       <div
         className={css`
           width: 640px;
+          height: 100%;
           margin: 1em auto;
         `}
       >
@@ -26,14 +29,27 @@ export const PhotographyPageTemplate = ({
           data-flickr-embed="true"
           href="https://www.flickr.com/photos/saecheverri/albums/72157687394720002"
           title="Arachnids"
+          className={css`
+            width: 640px;
+            height: 100%;
+          `}
         >
           <img
             src="https://farm5.staticflickr.com/4386/36649023612_8b0d20c428_z.jpg"
-            width="640"
-            height="427"
             alt="Arachnids"
             className={css`
+              width: 320px;
+              height: 213px;
               margin: 0 auto;
+
+              @media (min-width: 500px) {
+                width: 500px;
+                height: 333px;
+              }
+              @media (min-width: 668px) {
+                width: 640px;
+                height: 427px;
+              }
             `}
           />
         </a>
@@ -49,7 +65,6 @@ export const PhotographyPageTemplate = ({
           max-width: 600px;
         `}
       >
-        <h2>{title}</h2>
         <PageContent className="content" content={content} />
       </div>
     </Section>
