@@ -4,13 +4,16 @@ import { css } from "emotion";
 
 import Header from "../components/header";
 import Footer from "./Footer";
+import "./Global.css";
 
 // eslint-disable-next-line
 import normalize from "normalize.css";
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Sebastian Echeverri" />
+    <Helmet title="Sebastian Echeverri">
+      <link rel="icon" href="img/favicon.ico" />
+    </Helmet>
     <Header />
     <div
       className={css`

@@ -54,16 +54,14 @@ class Jumbotron extends React.Component {
         <div
           className={css`
             position: absolute;
-            top: 450px;
-            right: 20px;
+            top: 350px;
             color: white;
             // background-color: rgba(0, 0, 0, 0.2);
             padding: 1em;
             width: 100%;
             text-align: center;
             @media (min-width: 420px) {
-              top: 450px;
-              right: 20px;
+              top: 350px;
               width: 100%;
             }
             @media (min-width: 600px) {
