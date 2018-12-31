@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Spiderday Night Writes 01 - Into the Spider-verse
+title: You're not the only one - Thoughts and feelings on Into the Spiderverse
 date: 2018-12-31T20:50:38.971Z
 image: /img/p-aurantius_small-crop.jpeg
 tags:
@@ -9,6 +9,8 @@ tags:
   - grad school
   - snwrites
 ---
+## Spiderday Night Writes #01
+
 ![p-aurantius_small-crop.jpeg](/img/p-aurantius_small-crop.jpeg)
 
 I watched Spider-man: Into the Spider-verse this weekend. I left the theater with tears in my eyes. From laughing at the post credit scene? Yeah, that. 
@@ -43,7 +45,7 @@ That feeling of slowly giving up aspects of your life, bit by bit, so that you c
 
 Yeah, all of that.
 
-That feeling of ‘Arachnogod forbid you die before you graduate’? Yeah, sometimes that.
+That feeling of ‘Arachnogod forbid you die before you graduate from your program’? Yeah, sometimes that.
 
 And, that feeling that, with the right nudge, anyone could have ended up on the same path as you? Facing the same, seemingly impossible struggles? Getting knocked down and standing up again? After every failed grant? After every rejected paper? After every painful teaching evaluation? After every experiment completely ruined because of a small mistake? Because of something out of your control? After every project you pour yourself into? After every project you’re forced to abandon? After every project you’re forced to watch someone else take and succeed with?
 
@@ -55,7 +57,7 @@ Yeah, _that._
 
 \---
 
-I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that does upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
+I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that _does_ upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
 
 \---
 
