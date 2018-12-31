@@ -2,13 +2,15 @@
 templateKey: blog-post
 title: Spiderday Night Writes 01 - Into the Spider-verse
 date: 2018-12-31T20:50:38.971Z
-image: /img/p-aurantius_2018-07-16_small.jpeg
+image: /img/p-aurantius_small-crop.jpeg
 tags:
   - spiderman
   - spiderverse
   - grad school
   - snwrites
 ---
+![p-aurantius_small-crop.jpeg](/img/p-aurantius_small-crop.jpeg)
+
 I watched Spider-man: Into the Spider-verse this weekend. I left the theater with tears in my eyes. From laughing at the post credit scene? Yeah, that. 
 
 But not just that.
@@ -56,7 +58,5 @@ Yeah, _that._
 I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that does upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
 
 \---
-
-![p-aurantius_2018-07-16_small.jpeg](/img/p-aurantius_2018-07-16_small.jpeg)
 
 Illustration is of a jumping spider using their pedipalps to clean their eyes and face. Drawn from a DSLR photo reference by SAE.
