@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Spiderday Night Writes 01 - Into the Spider-verse
 date: 2018-12-31T20:50:38.971Z
-image: '![null](/img/img_20181231_162729118_hdr-01-02.jpeg)'
+image: '![p aurantius drawing](/img/img_20181231_162729118_hdr-01-02.jpeg)'
 tags:
   - spiderman
   - spiderverse
