@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Spiderday Night Writes 01 - Into the Spider-verse
 date: 2018-12-31T20:50:38.971Z
-image: '![p aurantius drawing](/img/img_20181231_162729118_hdr-01-03.jpeg)'
+image: /img/p-aurantius_2018-07-16_small.jpeg
 tags:
   - spiderman
   - spiderverse
@@ -51,12 +51,12 @@ That feeling that anyone out there, no matter their race, sex, gender, skin colo
 
 Yeah, _that._
 
-__
+\---
 
 I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that does upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
 
+\---
 
+![p-aurantius_2018-07-16_small.jpeg](/img/p-aurantius_2018-07-16_small.jpeg)
 
-
-
-Cover illustration is of a jumping spider using their pedipalps to clean their eyes and face. Drawn from a DSLR photo reference by SAE.
+Illustration is of a jumping spider using their pedipalps to clean their eyes and face. Drawn from a DSLR photo reference by SAE.
