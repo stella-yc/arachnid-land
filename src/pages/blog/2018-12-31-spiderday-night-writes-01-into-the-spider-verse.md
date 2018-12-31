@@ -51,10 +51,12 @@ That feeling that anyone out there, no matter their race, sex, gender, skin colo
 
 Yeah, _that._
 
-\---
+__
 
 I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that does upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
 
-\---
+
+
+
 
 Cover illustration is of a jumping spider using their pedipalps to clean their eyes and face. Drawn from a DSLR photo reference by SAE.
