@@ -59,7 +59,9 @@ Yeah, _that._
 
 \---
 
-I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that _does_ upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
+I suspect that people sometimes think that I like Spider-man because I love spiders, or perhaps vice versa. But, really? Spiders are almost tangential to the appeal of Spider-man (and that _does_ upset me to the point that I’ll write about it later, because spiders are absolutely amazing and deserve to be in the spotlight). 
+
+For me, the most important part of any serious Spider-man media is the idea of a daily struggle that both feels incredibly, personally, lonely, and is also something so familiar to so many. You don’t have to be a superhero, or a scientist, or a person of color, to get what it means to learn that _you’re not the only one_.
 
 \---
 
