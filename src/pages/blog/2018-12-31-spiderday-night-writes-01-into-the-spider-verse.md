@@ -1,6 +1,8 @@
 ---
 templateKey: blog-post
-title: You're not the only one - Thoughts and feelings on Into the Spiderverse
+title: >-
+  You're not the only one - "Into the Spiderverse" captures the journey of being
+  a PoC in academia
 date: 2018-12-31T20:50:38.971Z
 image: /img/p-aurantius_small-crop.jpeg
 tags:
