@@ -19,7 +19,7 @@ You can email me directly at echeverri.sa \[at] gmail \[dot] com, or reach out v
 
 ## Elsewhere on the Web
 
-You can find a list of my academic publications via [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lkp7X1EAAAAJ), and can download [my complete CV here](https://drive.google.com/file/d/1raM_DVxiYe2nYr7M2WfcLewnJN9-lRBj/view?usp=sharing).
+You can find a list of my academic publications via [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lkp7X1EAAAAJ), and can download my [complete CV here](https://docs.google.com/document/d/1b48e5DyXFUJyOAL09-jl9TgQs7sW10hw_G_y4Tc-uWY/edit?usp=sharing).
 
 You can find more of my photography on my [Flickr](https://www.flickr.com/photos/saecheverri/).
 
