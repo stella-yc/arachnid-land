@@ -60,7 +60,7 @@ Including the insects was a smart choice, but doing so worsened a pre-existing p
 
 The simple solution would have been to collect more tarantulas. But, studying wildlife requires a compromise between setting up the perfect experiment, and limiting the disturbance to nature. Ultimately, Dor decided that she would re-use the tarantulas, but wait at least 14 days in between each trial, with the hope this would be long enough for the spider to forget its previous experience. Importantly, Dor and her colleagues didn’t cover anything up - they explicitly stated their choice and reasoning when publishing their work. Such compromises are a common and necessary part of science.
 
-![A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winner, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
+![A flowchart of the staged fights between Brachypelma vagans and several opponents. Most often, the tarantula was the winner, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
 
 
 _Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
@@ -72,11 +72,11 @@ While the _Centruroides_ scorpions sometimes made the first attack, they were ne
 
 ![null](/img/bvagans-centruroides-fight.gif)
 
-_Fig 6. An example of a fight between B. vagans and a Centruroides scorpion. The scorpion attacks first, nipping at the tarantula’s leg, but flees after the tarantula strikes back. Original video courtesy of Yann Henaut._
+_Fig 6. An example of a fight between B. vagans and Centruroides gracilis. The scorpion attacks first, nipping at the tarantula’s leg, but flees after the tarantula strikes back. Original video courtesy of Yann Henaut._
 
 In solving this ecological mystery, Dor also discovered something else - _Brachypelma vagans_ tarantulas can be great neighbors for humans living in the Yucatan. These tarantulas have a harmless bite, stay away from human houses, and almost never attack people, preferring instead to run away. On the other hand, _Centruroides_ scorpions wander inside buildings, and are a frequent nuisance. “Nobody likes them,” explains Dor. “I encountered them in my house: in my dishes, between pillows, etc. They hide there and stay still.” While the stings of _C. gracilis_ and _C. ochreaceus_ are rarely, if ever, life threatening, they can still be painful, and waking up to a scorpion in your pillow might be distressing. By eating _Centruroides_ scorpions, _B. vagans_ acts as a helpful town guard. 
 
-However, like in many places, people in the Yucatan have a mixed relationship with their friendly neighborhood tarantulas. “Some are very accepting of arachnids in general, \[but] others reject them,” Henaut says. “Much has to do with their ethnic and social background. For example the Chol people use the tarantulas in their traditional medicine, and they for \[these spiders]. Other settlers lost this natural relationship.” \[3]
+However, like in many places, people in the Yucatan have a mixed relationship with their friendly neighborhood tarantulas. “Some are very accepting of arachnids in general, \[but] others reject them,” Henaut says. “Much has to do with their ethnic and social background. For example the Chol people use the tarantulas in their traditional medicine, and they care for \[these spiders]. Other settlers lost this natural relationship.” \[3]
 
 Sometimes, the tarantulas face senseless violence, despite being legally protected. “In rural zones, youngsters wanted to kill them \[by] flooding their burrow, \[for fun],” Ariane recalls. In other cases, the spiders break their unspoken contract, albeit for a good cause. “The problem is with the males, travelling great distances in the reproductive season in order to meet his better half. They enter houses during the night and scare the city people.” 
 
