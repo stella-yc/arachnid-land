@@ -66,7 +66,9 @@ _
 Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
 
 
-Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. While the _Centruroides_ scorpions sometimes made the first attack, they were never successful. The tarantulas claimed all victories - catching and consuming their opponent about 60% of the time, no matter who they were facing. At last, Dor and her team were able to confirm their suspicions - predation by the tarantula keeps these two arachnids apart in the wild. 
+Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. 
+
+While the _Centruroides_ scorpions sometimes made the first attack, they were never successful. The tarantulas claimed all victories - catching and consuming their opponent about 60% of the time, no matter who they were facing. At last, Dor and her team were able to confirm their suspicions - predation by the tarantula keeps these two arachnids apart in the wild. 
 
 ![null](/img/bvagans-centruroides-fight.gif)
 
