@@ -14,7 +14,7 @@ In my free time, I enjoy video games, hiking, and wildlife photography. Recently
 
 Feel free to contact me with any outreach or research inquiries, or if you just have a question about spiders! 
 
-You can email me directly at echeverri.sa \[at] gmail \[dot] com, or reach out via social media.
+You can email me directly at spiderdaynightlive \[at] gmail \[dot] com, or reach out via social media.
  I am [@spiderdaynightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter. 
 
 ## Elsewhere on the Web
