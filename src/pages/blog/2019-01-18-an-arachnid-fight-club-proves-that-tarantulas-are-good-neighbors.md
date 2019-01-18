@@ -42,7 +42,7 @@ There was only one way to find out for sure. To test her hypothesis, Ariane Dor 
 
 ![null](/img/snjc_01_melee.jpg)
 
-_Fig 3. No items. Arachnids only. Regulation plastic box. _
+_Fig 3. No items. Arachnids only. Regulation plastic box._
 
 Like any good scientific experiment (and most good fight clubs), Dor’s fight club needed some rules. Combatants would meet in a regulation plastic box (29.5cm width x 44cm length x 23.5cm height), and would enter in a set order. First, Dor would place the tarantula in the arena, and allow it to relax for one minute. Then, Dor would introduce the tarantula’s opponent, placing it a short distance (10cm) away. For every encounter, she recorded the behavior of both combatants, as well as the final outcome. 
 
