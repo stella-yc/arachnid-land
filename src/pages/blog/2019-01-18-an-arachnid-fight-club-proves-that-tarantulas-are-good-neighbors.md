@@ -60,7 +60,7 @@ Including the insects was a smart choice, but doing so worsened a pre-existing p
 
 The simple solution would have been to collect more tarantulas. But, studying wildlife requires a compromise between setting up the perfect experiment, and limiting the disturbance to nature. Ultimately, Dor decided that she would re-use the tarantulas, but wait at least 14 days in between each trial, with the hope this would be long enough for the spider to forget its previous experience. Importantly, Dor and her colleagues didn’t cover anything up - they explicitly stated their choice and reasoning when publishing their work. Such compromises are a common and necessary part of science.
 
-![A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
+![A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winner, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
 
 
 _Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
