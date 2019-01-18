@@ -16,13 +16,13 @@ In 2005, Dr. Ariane Dor and Dr. Yann Henaut noticed something strange across vil
 
 ![null](/img/snjc01_fig-1.jpg)
 
-_Fig 1. The tarantula_ Brachypelma vagans _(a) and the scorpions_ Centruroides gracilis _(b) and_ Centruroides ochraceus _(c) live in similar types of habitats in the Yucatan peninsula, but are rarely found in the same place. Photo (a) by Carlos Valenzuela, (b, c) by Maximilian Paradiz._
+_Fig 1. The tarantula Brachypelma vagans (a) and the scorpions Centruroides gracilis (b) and Centruroides ochraceus (c) live in similar types of habitats in the Yucatan peninsula, but are rarely found in the same place. Photo (a) by Carlos Valenzuela, (b, c) by Maximilian Paradiz._
 
 It _should_ have been easy to find both together. Dor and Henaut had plenty of experience searching for Mexican arachnids, and they knew where to look. The two scientists, both from the Mexican research institute ECOSUR (El Colegio de la Frontera Sur; “College of the Southern Frontier”), had been documenting populations of _B. vagans_ for several years in order to conserve the species. _B. vagans_ is legally protected in Mexico for fear of over-collection for the international pet trade. Henaut had discovered that this tarantula could be quite common in rural towns \[1], and others had noted the same about _Centruroides_ scorpions \[2].
 
 ![null](/img/bvagans-range-map.png)
 
-_Fig 2._ Brachypelma vagans _has a limited home range (shown in orange). From the [IUCN](https://www.iucnredlist.org/species/66082199/66082873)._
+_Fig 2. Brachypelma vagans has a limited home range (shown in orange). From the [IUCN](https://www.iucnredlist.org/species/66082199/66082873)._
 
 But in village after village, Dor and Henaut saw the same pattern. It didn’t matter whether they interviewed local residents, or searched themselves, night and day, week after week. If the tarantulas were living somewhere, the scorpions were scarce, and vice versa. 
 
@@ -48,7 +48,7 @@ Like any good scientific experiment (and most good fight clubs), Dor’s fight c
 
 ![null](/img/bvagans-centruroides-square-off.gif)
 
-_Fig 4._ Brachypelma vagans _and a_ Centruroides _scorpion square off in the arachnid fight club. Original video courtesy of Yann Henaut._
+_Fig 4. Brachypelma vagans and a Centruroides scorpion square off in the arachnid fight club. Original video courtesy of Yann Henaut._
 
 While it may seem unfair that only the tarantula was given time to get used to the arena, Henaut explains that this was to make the experiment true to life. “The natural pattern of the interaction is when tarantula is within its own territory, and attacks a a scorpion walking nearby. By their nature, these scorpions (though not all species) wander, and we see them wandering frequently, while the tarantulas hunt from their burrows.” 
 
@@ -62,8 +62,8 @@ The simple solution would have been to collect more tarantulas. But, studying wi
 
 ![A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
 
-_
-Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
+
+_Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
 
 
 Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. 
@@ -72,7 +72,7 @@ While the _Centruroides_ scorpions sometimes made the first attack, they were ne
 
 ![null](/img/bvagans-centruroides-fight.gif)
 
-_Fig 6. An example of a fight between_ B. vagans _and a_ Centruroides_ scorpion. The scorpion attacks first, nipping at the tarantula’s leg, but flees after the tarantula strikes back. Original video courtesy of Yann Henaut._
+_Fig 6. An example of a fight between B. vagans and a Centruroides scorpion. The scorpion attacks first, nipping at the tarantula’s leg, but flees after the tarantula strikes back. Original video courtesy of Yann Henaut._
 
 In solving this ecological mystery, Dor also discovered something else - _Brachypelma vagans_ tarantulas can be great neighbors for humans living in the Yucatan. These tarantulas have a harmless bite, stay away from human houses, and almost never attack people, preferring instead to run away. On the other hand, _Centruroides_ scorpions wander inside buildings, and are a frequent nuisance. “Nobody likes them,” explains Dor. “I encountered them in my house: in my dishes, between pillows, etc. They hide there and stay still.” While the stings of _C. gracilis_ and _C. ochreaceus_ are rarely, if ever, life threatening, they can still be painful, and waking up to a scorpion in your pillow might be distressing. By eating _Centruroides_ scorpions, _B. vagans_ acts as a helpful town guard. 
 
