@@ -84,13 +84,13 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 “A tarantula is a good caretaker of our house. She does not disturb you, as she lives quietly outside,” says Dor. Her fight club data is at the heart of her message. “She is a gluttonous predator of roaches and scorpions. Like her!”
 
-\---
+---
 
 _I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
 _I first posted an _[_early version of this piece_](https://www.reddit.com/r/spiders/comments/ac5ddc/rspiders_journal_club_01_no_items_arachnids_only/)_ on the /r/spiders Subreddit as part of a monthly event where I share new research on arachnids._
 
-__
+---
 
 Literature Cited:
 
