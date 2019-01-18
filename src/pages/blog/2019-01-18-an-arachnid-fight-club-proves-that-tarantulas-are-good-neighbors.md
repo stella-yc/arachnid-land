@@ -10,7 +10,7 @@ tags:
   - scorpion
   - smashbros
 ---
-## Spiderday Night Writes 02
+## Spiderday Night Writes #02
 
 In 2005, Dr. Ariane Dor and Dr. Yann Henaut noticed something strange across villages in the southern Yucatan. Two otherwise common residents - scorpions from the genus _Centruroides_, and the red-rump tarantula _Brachypelma vagans_ - seemed to be avoiding each other. 
 
@@ -20,19 +20,23 @@ _Fig 1. The tarantula_ Brachypelma vagans _(a) and the scorpions_ Centruroides g
 
 It _should_ have been easy to find both together. Dor and Henaut had plenty of experience searching for Mexican arachnids, and they knew where to look. The two scientists, both from the Mexican research institute ECOSUR (El Colegio de la Frontera Sur; “College of the Southern Frontier”), had been documenting populations of _B. vagans_ for several years in order to conserve the species. _B. vagans_ is legally protected in Mexico for fear of over-collection for the international pet trade. Henaut had discovered that this tarantula could be quite common in rural towns \[1], and others had noted the same about _Centruroides_ scorpions \[2].
 
+![](/img/bvagans-range-map.png)
+
+_Fig 2._ Brachypelma vagans _has a limited home range (shown in orange). From the [IUCN](https://www.iucnredlist.org/species/66082199/66082873)._
+
 But in village after village, Dor and Henaut saw the same pattern. It didn’t matter whether they interviewed local residents, or searched themselves, night and day, week after week. If the tarantulas were living somewhere, the scorpions were scarce, and vice versa. 
 
 Dor and Henaut couldn’t help but ask why.
 
 You might have asked the same question before. Why does this part of town have a few songbirds, but another has only pigeons? Why have do both raccoons and squirrels wander across the yard, but never at the same time of day? Why do the types of trees change as you walk throughout a forest? Nature isn’t uniform - it is diverse and constantly changing. Humans have been asking why for so long that we’ve dedicated an entire branch of science - ecology - to discovering the reasons some species live here but not there.
 
-So what was it about these two arachnids that kept them from living in the same area? Dor and her colleagues had a few ideas. Both species could be competing for the same, crucial resource. Sometimes, two species compete for places to live, but Dor was able to rule this out. _B. vagans_ and the two local species _Centruroides _scorpions (_C. ochraceus_ and _C. gracilis_) prefer different types of homes. The tarantula makes its own burrows in the ground, while the scorpion hides under flat crevices. A housing shortage wasn’t the answer.
+So what was it about these two arachnids that kept them from living in the same area? Dor and her colleagues had a few ideas. Both species could be competing for the same, crucial resource. Sometimes, two species compete for places to live, but Dor was able to rule this out. _B. vagans_ and the two local species _Centruroides_ scorpions (_C. ochraceus_ and _C. gracilis_) prefer different types of homes. The tarantula makes its own burrows in the ground, while the scorpion hides under flat crevices. A housing shortage wasn’t the answer.
 
  Perhaps it was food? Both arachnids hunt in a similar manner, and eat more or less the same prey: insects and other terrestrial invertebrates. If one species was a much better hunter, the other might go hungry and have trouble surviving near the superior competitor. Definitely a possibility.
 
 However, Dor’s advisor, Dr. Sophie Calme, suggested a simpler explanation. Perhaps it was food. Both arachnids are predators, after all, and their list of prey just might include each other. Most arachnids are not picky eaters; even smaller members of their own species can be fair game. To Dor and her colleagues, it seemed very likely that one of these predators was eating the other.
 
-Who, then, was eating whom? Between the two, the tarantula was the prime suspect. Growing up to over 12cm in legspan as adults, _Brachypelma vagans _had weight and reach over the smaller (~2.5cm) _Centruroides_ scorpions. But despite appearances, there was always a chance that the scorpion’s venomous stinger might be enough to make it the predator, not the prey. 
+Who, then, was eating whom? Between the two, the tarantula was the prime suspect. Growing up to over 12cm in legspan as adults, _Brachypelma vagans_ had weight and reach over the smaller (~2.5cm) _Centruroides_ scorpions. But despite appearances, there was always a chance that the scorpion’s venomous stinger might be enough to make it the predator, not the prey. 
 
 There was only one way to find out for sure. To test her hypothesis, Ariane Dor had to set up an arachnid fight club. 
 
