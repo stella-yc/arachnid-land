@@ -48,7 +48,7 @@ Like any good scientific experiment (and most good fight clubs), Dor’s fight c
 
 ![null](/img/bvagans-centruroides-square-off.gif)
 
-_Fig 4._ Brachypelma vagans_ and a_ Centruroides_ scorpion square off in the arachnid fight club. Original video courtesy of Yann Henaut._
+_Fig 4._ Brachypelma vagans _and a_ Centruroides _scorpion square off in the arachnid fight club. Original video courtesy of Yann Henaut._
 
 While it may seem unfair that only the tarantula was given time to get used to the arena, Henaut explains that this was to make the experiment true to life. “The natural pattern of the interaction is when tarantula is within its own territory, and attacks a a scorpion walking nearby. By their nature, these scorpions (though not all species) wander, and we see them wandering frequently, while the tarantulas hunt from their burrows.” 
 
@@ -88,7 +88,7 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 _I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
-_I first posted an _[_early version of this piece_](https://www.reddit.com/r/spiders/comments/ac5ddc/rspiders_journal_club_01_no_items_arachnids_only/)_ on the /r/spiders Subreddit as part of a monthly event where I share new research on arachnids._
+_I first posted an_ [_early version of this piece_](https://www.reddit.com/r/spiders/comments/ac5ddc/rspiders_journal_club_01_no_items_arachnids_only/) _on the /r/spiders Subreddit as part of a monthly event where I share new research on arachnids._
 
 ---
 
