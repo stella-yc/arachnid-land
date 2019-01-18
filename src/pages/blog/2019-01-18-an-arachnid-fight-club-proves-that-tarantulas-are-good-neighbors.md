@@ -65,9 +65,8 @@ The simple solution would have been to collect more tarantulas. But, studying wi
 _
 Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
 
-__
 
-Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. While the _Centruroides _scorpions sometimes made the first attack, they were never successful. The tarantulas claimed all victories - catching and consuming their opponent about 60% of the time, no matter who they were facing. At last, Dor and her team were able to confirm their suspicions - predation by the tarantula keeps these two arachnids apart in the wild. 
+Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. While the _Centruroides_ scorpions sometimes made the first attack, they were never successful. The tarantulas claimed all victories - catching and consuming their opponent about 60% of the time, no matter who they were facing. At last, Dor and her team were able to confirm their suspicions - predation by the tarantula keeps these two arachnids apart in the wild. 
 
 ![null](/img/bvagans-centruroides-fight.gif)
 
@@ -85,10 +84,7 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 \---
 
-_I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself. 
-_
-
-__
+_I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
 _I first posted an _[_early version of this piece_](https://www.reddit.com/r/spiders/comments/ac5ddc/rspiders_journal_club_01_no_items_arachnids_only/)_ on the /r/spiders Subreddit as part of a monthly event where I share new research on arachnids._
 
