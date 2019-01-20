@@ -62,9 +62,7 @@ The simple solution would have been to collect more tarantulas. But, studying wi
 
 ![A flowchart of the staged fights between Brachypelma vagans and several opponents. Most often, the tarantula was the winner, eating its opponent. Reconstructed from data presented in [3].](/img/snjc_01_fig1_x600.png)
 
-
-_Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winning, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
-
+_Fig 5. A flowchart of the results Ariane Dor’s arachnid fight club. Most often, the tarantula was the winner, eating its opponent. Reconstructed from data presented in \[3], and produced using Sankeymatic.com._
 
 Luckily, Dor’s data told a clear story - the undisputed champion of the Yucatan arachnid arena was the tarantula, _Brachypelma vagans._ It wasn’t even close. 
 
@@ -84,13 +82,13 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 “A tarantula is a good caretaker of our house. She does not disturb you, as she lives quietly outside,” says Dor. Her fight club data is at the heart of her message. “She is a gluttonous predator of roaches and scorpions. Like her!”
 
----
+- - -
 
 _I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
 _I first posted an_ [_early version of this piece_](https://www.reddit.com/r/spiders/comments/ac5ddc/rspiders_journal_club_01_no_items_arachnids_only/) _on the /r/spiders Subreddit as part of a monthly event where I share new research on arachnids._
 
----
+- - -
 
 Literature Cited:
 
