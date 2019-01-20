@@ -84,7 +84,7 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 - - -
 
-_This piece is based on the paper "Predatory interactions between Centruroides scorpions and the tarantula Brachypelma vagans," by Ariane Dor, Sophie Calme, and Yenn Henaut, and published in the Journal of Arachnology in 2011. You can access it for free via _[_ResearchGate_](https://www.researchgate.net/profile/Sophie_Calme/publication/233402026_Predatory_interactions_between_Centruroides_scorpions_and_the_tarantula_Brachypelma_vagans/links/09e4150a4318593bdc000000.pdf)_._
+_This piece is based on the paper "Predatory interactions between Centruroides scorpions and the tarantula Brachypelma vagans," by Ariane Dor, Sophie Calme, and Yenn Henaut, and published in the Journal of Arachnology in 2011. You can access it for free via _[_ResearchGate_](https://www.researchgate.net/profile/Sophie_Calme/publication/233402026_Predatory_interactions_between_Centruroides_scorpions_and_the_tarantula_Brachypelma_vagans/links/09e4150a4318593bdc000000.pdf).
 
 _I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
