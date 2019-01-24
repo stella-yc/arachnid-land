@@ -12,7 +12,7 @@ tags:
 ---
 ## Spiderday Night Writes #02
 
-In 2005, Dr. Ariane Dor and Dr. Yann Henaut noticed something strange across villages in the southern Yucatan. Two otherwise common residents - scorpions from the genus _Centruroides_, and the red-rump tarantula _Brachypelma vagans_ - seemed to be avoiding each other. 
+In 2005, Ariane Dor and Dr. Yann Henaut noticed something strange across villages in the southern Yucatan. Two otherwise common residents - scorpions from the genus _Centruroides_, and the red-rump tarantula _Brachypelma vagans_ - seemed to be avoiding each other. 
 
 ![null](/img/snjc01_fig-1.jpg)
 
@@ -34,7 +34,7 @@ So what was it about these two arachnids that kept them from living in the same 
 
  Perhaps it was food? Both arachnids hunt in a similar manner, and eat more or less the same prey: insects and other terrestrial invertebrates. If one species was a much better hunter, the other might go hungry and have trouble surviving near the superior competitor. Definitely a possibility.
 
-However, Dor’s advisor, Dr. Sophie Calme, suggested a simpler explanation. Perhaps it was food. Both arachnids are predators, after all, and their list of prey just might include each other. Most arachnids are not picky eaters; even smaller members of their own species can be fair game. To Dor and her colleagues, it seemed very likely that one of these predators was eating the other.
+However, there could be a simpler explanation. Perhaps it _was_ food. Both arachnids are predators, after all, and their list of prey just might include each other. Most arachnids are not picky eaters; even smaller members of their own species can be fair game. To Dor and her colleagues, it seemed very likely that one of these predators was eating the other.
 
 Who, then, was eating whom? Between the two, the tarantula was the prime suspect. Growing up to over 12cm in legspan as adults, _Brachypelma vagans_ had weight and reach over the smaller (~2.5cm) _Centruroides_ scorpions. But despite appearances, there was always a chance that the scorpion’s venomous stinger might be enough to make it the predator, not the prey. 
 
@@ -84,7 +84,7 @@ Dor and Henaut are hopeful that with time and effort, people can come to appreci
 
 - - -
 
-_This piece is based on the paper "Predatory interactions between Centruroides scorpions and the tarantula Brachypelma vagans," by Ariane Dor, Sophie Calme, and Yenn Henaut, and published in the Journal of Arachnology in 2011. You can access it for free via_ [_ResearchGate_](https://www.researchgate.net/profile/Sophie_Calme/publication/233402026_Predatory_interactions_between_Centruroides_scorpions_and_the_tarantula_Brachypelma_vagans/links/09e4150a4318593bdc000000.pdf).
+_This piece is based on the paper "Predatory interactions between Centruroides scorpions and the tarantula Brachypelma vagans," by Ariane Dor, Sophie Calme, and Yenn Henaut, and published in the Journal of Arachnology in 2011. You can access it for free via_ [_ResearchGate_](https://www.researchgate.net/profile/Sophie_Calme/publication/233402026_Predatory_interactions_between_Centruroides_scorpions_and_the_tarantula_Brachypelma_vagans/links/09e4150a4318593bdc000000.pdf). _This study was part of (now Dr.) Ariane Dor's PhD dissertation._
 
 _I would like to thank Ariane Dor and Yann Henaut for answering my various questions about this research, despite all the years since the study. Yann’s responses were translated from Spanish by myself._ 
 
