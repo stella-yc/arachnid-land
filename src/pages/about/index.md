@@ -23,4 +23,4 @@ You can find more of my photography on my [Flickr](https://www.flickr.com/photos
 
 ## Attributions
 
-This wonderful website was made by my partner, Stella Chung, as was the little Sebastian doodle atop this page. All other photos, figures, and drawings are my own.
+This wonderful website was made by my partner, Stella Chung, as was the little Sebastian doodle atop this page. All other photos, figures, and drawings are my own unless noted.
