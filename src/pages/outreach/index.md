@@ -14,7 +14,7 @@ I have brought my outreach arachnids to the Carnegie Museum of Natural History, 
 
 If you are in the Pittsburgh area and are interested in having me visit your institution to talk about spiders, vision, and/or science at large, please get in touch! I am also available for remote classroom visits via Skype-a-Scientist.
 
-I also enjoy translating academic research into accessible and meaningful stories for the public, through both traditional science writing , and short-form journalism on social media. This summer, I am working as a science journalist thanks to the AAAS Mass Media Fellowship.
+I also enjoy translating academic research into accessible and meaningful stories for the public, through [both traditional science writing](https://medium.com/arachnofiles), and [short-form journalism on social media](https://twitter.com/search?vertical=default&q=%23arachno19%20from%3Aspiderdaynight&src=typd). Thanks to the AAAS Mass Media Fellowship, this summer, I will be working as a science journalist at the Philadelphia Inquirer.
 
 
 
