@@ -64,21 +64,14 @@ class Jumbotron extends React.Component {
               top: 350px;
               width: 100%;
             }
-            @media (min-width: 600px) {
-              top: 450px;
-              right: 20px;
-              width: 100%;
-            }
-            @media (min-width: 800px) {
+            @media (min-width: 768px) {
               top: 200px;
               width: 50%;
-              // width: 100%;
               right: 20px;
             }
             @media (min-width: 1100px) {
               top: 200px;
               width: 38%;
-              // width: 100%;
               right: 60px;
             }
             @media (min-width: 1130px) {
@@ -89,15 +82,9 @@ class Jumbotron extends React.Component {
         >
           <p
             className={css`
-              font-size: 2.8em;
+              font-size: 2.3em;
               margin-bottom: 0.5em;
               text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
-              @media (min-width: 420px) {
-                font-size: 3em;
-              }
-              @media (min-width: 600px) {
-                font-size: 3em;
-              }
               @media (min-width: 768px) {
                 font-size: 2.4em;
               }
