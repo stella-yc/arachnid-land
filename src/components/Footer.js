@@ -10,7 +10,7 @@ const Footer = ({ data, siteTitle }) => (
       height: 19vh;
       padding: 1.7em 0 0 0;
       text-align: center;
-      background-color: #ebebe0;
+      background-color: hsla(0, 0%, 7%, 1);
     `}
   >
     <SocialLinks />

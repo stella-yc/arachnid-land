@@ -14,7 +14,6 @@ const NavLink = ({ href, children }) => (
     <Link
       to={href}
       className={css`
-        color: #383838;
         padding-bottom: 0.5em;
         text-decoration: none;
         &:hover {

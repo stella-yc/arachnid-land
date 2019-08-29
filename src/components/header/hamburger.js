@@ -1,26 +1,10 @@
 import React from "react";
 import { css } from "emotion";
 
-// const lineStyle = css`
-//   width: 20px;
-//   height: 3px;
-//   background-color: black;
-//   margin: 3px 0;
-//   transition: 0.4s;
-
-//   @media (min-width: 420px) {
-//     width: 35px;
-//     height: 5px;
-//     background-color: black;
-//     margin: 6px 0;
-//     transition: 0.4s;
-//   }
-// `;
-
 const lineStyle = css`
-  width: 35px;
-  height: 5px;
-  background-color: black;
+  width: 30px;
+  height: 3px;
+  background-color: white;
   margin: 6px 0;
   transition: 0.4s;
 `;

@@ -7,3 +7,18 @@ p {
 a {
   color: #00b4a6;
 }
+
+body {
+  background-color: hsla(0, 0%, 12%, 1);
+}
+
+p,
+a,
+li,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: hsla(0, 0%, 100%, 1);
+}

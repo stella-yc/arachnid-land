@@ -9,7 +9,8 @@ const roles = [
   "Ph.D. Student",
   "Science Educator",
   "Wildlife Photographer",
-  "Scientist"
+  "Scientist",
+  "Journalist"
 ];
 
 class Jumbotron extends React.Component {
@@ -54,9 +55,8 @@ class Jumbotron extends React.Component {
         <div
           className={css`
             position: absolute;
-            top: 350px;
+            top: 300px;
             color: white;
-            // background-color: rgba(0, 0, 0, 0.2);
             padding: 1em;
             width: 100%;
             text-align: center;

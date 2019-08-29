@@ -13,8 +13,7 @@ const SocialLink = ({ link, label }) => (
     <a
       className={css`
         text-decoration: none;
-        color: #2d2d2d;
-        border-bottom: 1px solid #2d2d2d;
+        border-bottom: 1px solid #fff;
         &:hover {
           color: #00cebe;
           border-bottom: 1px solid #00cebe;
