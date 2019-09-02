@@ -63,9 +63,21 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/photography/index.md"
-        label: "Photography"
-        name: "photography"
+      - file: "src/pages/art/index.md"
+        label: "Art"
+        name: "art"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "about-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/publications/index.md"
+        label: "Publications"
+        name: "publications"
         fields:
           - {
               label: "Template Key",

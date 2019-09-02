@@ -8,11 +8,7 @@ import Content, { HTMLContent } from "../components/Content";
 import { Section } from "../components/Section";
 import PageTitle from "../components/PageTitle";
 
-export const PhotographyPageTemplate = ({
-  title,
-  content,
-  contentComponent
-}) => {
+export const ArtPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -71,18 +67,18 @@ export const PhotographyPageTemplate = ({
   );
 };
 
-PhotographyPageTemplate.propTypes = {
+ArtPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func
 };
 
-const PhotographyPage = ({ data }) => {
+const ArtPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <PhotographyPageTemplate
+      <ArtPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -91,14 +87,14 @@ const PhotographyPage = ({ data }) => {
   );
 };
 
-PhotographyPage.propTypes = {
+ArtPage.propTypes = {
   data: PropTypes.object.isRequired
 };
 
-export default PhotographyPage;
+export default ArtPage;
 
-export const photographyPageQuery = graphql`
-  query PhotographyPage($id: String!) {
+export const artPageQuery = graphql`
+  query ArtPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

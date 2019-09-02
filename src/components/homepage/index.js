@@ -32,12 +32,7 @@ class Homepage extends React.PureComponent {
             justify-content: center;
           }
         `}
-      >
-        <Card title="Research" path="/research/" />
-        <Card title="Outreach" path="/outreach/" />
-        <Card title="Photography" path="/photography/" />
-        <Card title="About" path="/about/" />
-      </div>
+      />
     );
   }
 }

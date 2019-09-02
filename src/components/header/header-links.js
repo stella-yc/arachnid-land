@@ -43,10 +43,11 @@ const HeaderLinks = ({ siteTitle }) => (
       }
     `}
   >
+    <NavLink href="/publications/">Publications</NavLink>
     <NavLink href="/research/">Research</NavLink>
     <NavLink href="/outreach/">Outreach</NavLink>
     <NavLink href="/blog/">Blog</NavLink>
-    <NavLink href="/photography/">Photography</NavLink>
+    <NavLink href="/art/">Art</NavLink>
     <NavLink href="/about/">About</NavLink>
   </ul>
 );

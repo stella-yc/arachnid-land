@@ -27,7 +27,10 @@ class HeaderMenu extends React.Component {
         `}
       >
         <Hamburger isOpen={this.state.isOpen} handleToggle={this.toggleMenu} />
-        <HamburgerMenu isOpen={this.state.isOpen} />
+        <HamburgerMenu
+          isOpen={this.state.isOpen}
+          toggleMenu={this.toggleMenu}
+        />
       </div>
     );
   }

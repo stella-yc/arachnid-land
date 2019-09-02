@@ -96,7 +96,7 @@ class Jumbotron extends React.Component {
               }
             `}
           >
-            Sebastian Echeverri
+            Sebastian A. Echeverri
           </p>
           <p
             className={css`

@@ -12,8 +12,8 @@ const _selectImage = title => {
       return style.research;
     case "Outreach":
       return style.outreach;
-    case "Photography":
-      return style.photography;
+    case "Art":
+      return style.art;
   }
 };
 const Card = ({ title, path }) => (
@@ -44,7 +44,7 @@ const Card = ({ title, path }) => (
           className={css`
             color: white;
             text-shadow: 1px 4px 9px rgba(0, 0, 0, 0.8);
-            font-size: 2.5em;
+            font-size: 0.5rem;
             @media (min-width: 950px) {
               font-size: 3em;
             }

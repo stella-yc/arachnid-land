@@ -29,7 +29,7 @@
   background-image: url(img/outreach.jpg);
 }
 
-.photography {
+.art {
   composes: icon;
   background-image: url(img/photography.jpg);
 }
