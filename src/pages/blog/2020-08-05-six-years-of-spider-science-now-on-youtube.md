@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Six years of spider science, now on YouTube'
 date: 2020-08-05T15:43:07.338Z
-image: '![null](/img/echeverri_phd-defense_2020-05-16_title.png)'
+image: /img/echeverri_phd-defense_2020-05-16_title.png
 tags:
   - grad school
 ---
