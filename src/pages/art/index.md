@@ -14,4 +14,4 @@ If you are interested in macro photography, but are on a budget, there are very 
 
 ## Illustration
 
-I am learning natural history-style illustration! Currently, I am working with pen (PaperMate InkJoy 300) on paper.
+I am also learning natural history-style illustration. Currently, I'm working with pen (PaperMate InkJoy 300) on paper.
